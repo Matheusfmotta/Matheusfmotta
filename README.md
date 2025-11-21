@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br><br>📚 Deepening my knowledge in Back-End Development and API Development, with a focus on Relational Database Modeling, Modern Web Application Development, and Version Control for Team Collaboration.</p>
+<p align="left">✨ Creating bugs since 2025<br><br>📚 Deepening my knowledge in Back-End Development and API Development, I enjoy transforming data and logic into functional tools, applying programming to solve complex problems. Currently focused on intensive study of Java (OOP) and Relational Data Modeling (SQL). I'm driven to build robust systems and understand API Development. Curious and ready to expand my skillset to Python and other languages. Proficient in using Git for collaborative version control.</p>
 
 ###
 
