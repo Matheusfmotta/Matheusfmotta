@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusfmotta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=NOME_DO_SEU_PROJETO_PYTHON" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusfmotta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=ViabilidadeComercialReservatorio" height="150" alt="languages graph" />
 </div>
 
 ###
