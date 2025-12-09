@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matheus and I'm a developer, from Brazil!</p>
+<p align="left">Meu nome é Matheus e eu sou um estudante de Análise e Desenvolvimento de Software</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br><br>📚 Deepening my knowledge in Back-End Development and API Development, I enjoy transforming data and logic into functional tools, applying programming to solve complex problems. Currently focused on intensive study of Java (OOP) and Relational Data Modeling (SQL). I'm driven to build robust systems and understand API Development. Curious and ready to expand my skillset to Python and other languages. Proficient in using Git for collaborative version control.</p>
+<p align="left">✨ Creating bugs since 2025<br><br>📚 Aprofundando meus conhecimentos em Desenvolvimento Back-End e Desenvolvimento de APIs, gosto de transformar dados e lógica em ferramentas funcionais, aplicando programação para resolver problemas complexos. Atualmente, estou focado no estudo intensivo de Java (POO), Modelagem de Dados Relacionais (SQL) e Python. Sou motivado a construir sistemas robustos e a compreender o Desenvolvimento de APIs. Curioso e pronto para expandir minhas habilidades para outras linguagens. Proficiente no uso do Git para controle de versão colaborativo.</p>
 
 ###
 
@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.cyclic.app/api/top-langs?username=Matheusfmotta&theme=dark&cache_seconds=300" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusfmotta&layout=compact&theme=dark" alt="languages graph" />
 </div>
 
 ###
