@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusfmotta&layout=compact&theme=dark" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusfmotta&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages graph" />
 </div>
 
 ###
