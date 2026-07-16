@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">📚🧠 Estudante de Análise e Desenvolvimento de Software. Aprofundando meus conhecimentos em Desenvolvimento Back-End, Desenvolvimento de APIs, Arquitetura de Sistemas com Frameworks, Bancos de Dados, Inteligência Artificial (IA), Análise e Ciência de Dados.<br><br> Gosto de transformar dados e lógica em ferramentas funcionais, aplicando programação para resolver problemas complexos.</p>
+<p align="left">📚🧠 Estudante de Análise e Desenvolvimento de Software. Aprofundando meus conhecimentos em Desenvolvimento de Software, API, Frameworks, Dados, automações e Inteligência Artificial.<br><br> Gosto de aplicar programação para resolver problemas complexos, além de transformar dados e lógica em ferramentas funcionais.</p>
 
 ###
 
