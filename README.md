@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">📚🧠 Estudante de Análise e Desenvolvimento de Software. Aprofundando meus conhecimentos em Desenvolvimento de Software, API, Frameworks, Dados, automações e Inteligência Artificial.<br><br> Gosto de aplicar programação para resolver problemas complexos, além de transformar dados e lógica em ferramentas funcionais.</p>
+<p align="left">📚🧠 Estudante de Análise e Desenvolvimento de Software. Aprofundando meus conhecimentos em Desenvolvimento de Software, Dados, automações e Soluções com Inteligência Artificial.<br><br> Gosto de aplicar programação para resolver problemas complexos, além de transformar dados e lógica em ferramentas funcionais.</p>
 
 ###
 
